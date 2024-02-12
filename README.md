@@ -4,7 +4,7 @@
 
 ![Personal Website](img/website_icon.webp) https://www.RobertjConner.com/
 # Description:
-This project introduces a dynamic and interactive platform for League of Legends: Wild Rift players, aimed at revolutionizing game strategy analysis and performance improvement. By allowing users to input the URL to their match database from a match statistics website, the dashboard employs sophisticated data scraping techniques to harvest comprehensive match data. It analyzes a wide array of performance metrics to predict match outcomes and identify pivotal performance indicators. This dashboard not only automates the process of data wrangling but also provides a user-friendly interface for players to access personalized match analyses, thereby offering strategic insights and tailored feedback to enhance individual gameplay proficiency.
+This project introduces a dynamic and interactive platform for League of Legends: Wild Rift players, aimed at game strategy analysis and performance improvement. By allowing users to input the URL to their match database from a match statistics website, the dashboard employs sophisticated data scraping techniques to harvest comprehensive match data. It analyzes a wide array of performance metrics to predict match outcomes and identify pivotal performance indicators. This dashboard not only automates the process of data wrangling but also provides a user-friendly interface for players to access personalized match analyses, thereby offering strategic insights and tailored feedback to enhance individual gameplay proficiency.
 
 ![Dashboard Example](img/dashboard_ex1.png)
 
